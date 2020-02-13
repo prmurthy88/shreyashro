@@ -1,2 +1,1 @@
-# website_testing
-testing
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89351d6a-d6a2-4bfe-b1ca-3ac4be319057/deploy-status)](https://app.netlify.com/sites/shreyashro/deploys)
